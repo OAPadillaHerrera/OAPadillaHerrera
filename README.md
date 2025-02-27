@@ -6,9 +6,9 @@ Full Stack Developer e ingeniero. Apasionado por la Programación y el Desarroll
 
 Habilidades
 
-Lenguajes de Programación: JavaScript, TypeScript & Python
-Frameworks y Librerías: Nest.js, React & Node.js
-Herramientas y Plataformas: Docker & Git&GitHub
+Lenguajes de Programación: JavaScript, TypeScript & Python;
+Frameworks y Librerías: Nest.js, React & Node.js;
+Herramientas y Plataformas: Docker & Git&GitHub;
 Base de Datos: PostgreSQL & MongoDB
 
 Proyectos
