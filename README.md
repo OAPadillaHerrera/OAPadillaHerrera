@@ -1,6 +1,7 @@
 # 👋 ¡Hola, soy Óscar Padilla!
 
-## 🚀 Acerca de mí  
+## 🚀 Acerca de mí:
+
 🎯 **Full Stack Developer** con formación en ingeniería. Me gusta el Frontend pero mas el  **Backend**. Diseño arquitecturas eficientes, optimizando bases de datos y construyendo sistemas escalables.  
 
 ---
