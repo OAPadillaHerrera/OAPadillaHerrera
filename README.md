@@ -15,7 +15,7 @@
 ---
 
 ## 💼 Portafolio  
-📌 Puedes ver mis proyectos en detalle aquí:  
+📌 Puedes ver mis proyectos con mas detalle aquí:  
 👉 **[Mi Portafolio](https://github.com/OAPadillaHerrera/portfolio)**  
 
 ---
