@@ -10,7 +10,7 @@
 - **Lenguajes:** JavaScript, TypeScript, Python  
 - **Frameworks & Librerías:** Nest.js, Node.js, React  
 - **Bases de Datos:** PostgreSQL, MongoDB  
-- **Herramientas:** Docker, Git & GitHub  
+- **Herramientas:** Docker, Git&GitHub  
 
 ---
 
