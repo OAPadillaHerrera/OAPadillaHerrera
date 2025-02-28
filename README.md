@@ -1,33 +1,26 @@
-¡Hola, soy Óscar Padilla! 👋
+# 👋 ¡Hola, soy Óscar Padilla!
 
-Acerca de Mí
+## 🚀 Acerca de mí  
+🎯 **Full Stack Developer** con formación en ingeniería. Me gusta el Frontend pero mas el  **Backend**. Diseño arquitecturas eficientes, optimizando bases de datos y construyendo sistemas escalables.  
 
-Full Stack Developer e ingeniero. Apasionado por la Programación y el Desarrollo Web. Me gusta el Frontend pero más el Backend.
+---
 
-Habilidades
+## 🛠️ Habilidades  
 
-Lenguajes de Programación: JavaScript, TypeScript & Python;
-Frameworks y Librerías: Nest.js, React & Node.js;
-Herramientas y Plataformas: Docker & Git&GitHub;
-Base de Datos: PostgreSQL & MongoDB
+- **Lenguajes:** JavaScript, TypeScript, Python  
+- **Frameworks & Librerías:** Nest.js, Node.js, React  
+- **Bases de Datos:** PostgreSQL, MongoDB  
+- **Herramientas:** Docker, Git & GitHub  
 
-Proyectos
+---
 
-Aquí hay algunos de los proyectos en los que he trabajado:
+## 💼 Portafolio  
+📌 Puedes ver mis proyectos en detalle aquí:  
+👉 **[Mi Portafolio](https://github.com/OAPadillaHerrera/portfolio)**  
 
-Aplicación de Gestión de Compras en Línea: Desarrollé una aplicación web interactiva Full Stack para la gestión de compras en línea. Los usuarios pueden registrarse, comprar productos mediante un carrito y generar órdenes de compra. Un administrador puede gestionar stock, actualizar productos e imágenes en la nube.
+---
 
-Aplicación de Gestión de Turnos Médicos: Desarrollé una aplicación web Full Stack para la gestión de turnos médicos, permitiendo a los usuarios registrarse, iniciar sesión, agendar y cancelar turnos de acuerdo con las políticas del establecimiento.
+## 📬 Contacto  
+📧 **Correo:** oscar.padilla.ha@gmail.com  
+🔗 **LinkedIn:** [Óscar Padilla](https://www.linkedin.com/in/oscar-padilla-88337553)  
 
-Aplicación de Gestión de Películas: Desarrollé una aplicación web para visualizar y gestionar películas, integrando tecnologías Full Stack, diseño responsive y manejo de bases de datos.
-
-Web de Presentación Personal: Diseñé, desarrollé e Implementé una web interactiva de presentación personal, aplicando principios de diseño web, manipulación del DOM y programación orientada a objetos.
-
-Contacto
-
-Correo Electrónico: oscar.padilla.ha@gmail.com
-LinkedIn: [Óscar Padilla](https://www.linkedin.com/in/%C3%B3scar-padilla-88337553/)
-
-¡No dudes en contactarme para colaborar o simplemente para saludar!
-
-¡Gracias por visitar mi perfil!
