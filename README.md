@@ -26,7 +26,7 @@ Web de Presentación Personal: Diseñé, desarrollé e Implementé una web inter
 Contacto
 
 Correo Electrónico: oscar.padilla.ha@gmail.com
-LinkedIn: Óscar Padilla
+LinkedIn: [Óscar Padilla](https://www.linkedin.com/in/%C3%B3scar-padilla-88337553/)
 
 ¡No dudes en contactarme para colaborar o simplemente para saludar!
 
