@@ -2,7 +2,7 @@
 
 ## 🚀 Acerca de mí:
 
-🎯 **Full Stack Developer** con formación en ingeniería. Me gusta el Frontend pero mas el  **Backend**. Diseño arquitecturas eficientes, optimizando bases de datos y construyendo sistemas escalables.  
+🎯 **Full Stack Developer** con formación en ingeniería. Me gusta el Frontend y el Backend. Diseño arquitecturas eficientes, optimizando bases de datos y construyendo sistemas escalables.  
 
 ---
 
@@ -10,7 +10,7 @@
 
 - **Lenguajes:** JavaScript, TypeScript, Python  
 - **Frameworks & Librerías:** Nest.js, Node.js, React  
-- **Bases de Datos:** PostgreSQL, MongoDB  
+- **Bases de Datos:** PostgreSQL
 - **Herramientas:** Docker, Git&GitHub  
 
 ---
