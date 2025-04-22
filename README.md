@@ -23,6 +23,6 @@
 
 ## 📬 Contacto  
 📧 **Correo:** iamfstackdev@gmail.com  
-🔗 **LinkedIn:** [Óscar Padilla](https://www.linkedin.com/in/oscar-padilla-88337553)  
+🔗 **LinkedIn:** [Óscar Padilla](https://www.linkedin.com/in/oscarpadillafswd/))  
 Móvil: +57 300 380 8231
 
