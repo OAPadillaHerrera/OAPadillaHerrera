@@ -8,7 +8,7 @@
 
 ## 🛠️ Habilidades  
 
-- **Lenguajes:** JavaScript, TypeScript, Python  
+- **Lenguajes:** TypeScript y Python  
 - **Frameworks & Librerías:** Nest.js, Node.js, React  
 - **Bases de Datos:** PostgreSQL
 - **Herramientas:** Docker, Git&GitHub  
