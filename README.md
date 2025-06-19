@@ -27,8 +27,11 @@
 ## 📬 Contacto  
 
 🌐 **Página web:** oapadillaherrera.github.io/presentacion-personal-app
+
 🔗 **LinkedIn:** [Óscar Padilla](https://www.linkedin.com/in/oscarpadillafswd/) 
+
 📞 **Móvil**: (+57) 300 380 8231
+
 📧 **Correo:** iamfstackdev@gmail.com  
 
 
