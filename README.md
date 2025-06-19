@@ -4,7 +4,7 @@
 
 ## 🚀 Acerca de mí:
 
-🎯 **Full Stack Developer** con formación en ingeniería. Me gusta el Frontend y el Backend. 
+🎯 Me apasiona la programaación por todas las cosas que se pueden hacer con ella. Me gusta el backend y el frontend.
 
 ---
 
