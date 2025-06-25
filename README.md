@@ -26,7 +26,7 @@
 
 ## 📬 Contacto  
 
-🌐 **Página web:** (https://oapadillaherrera.github.io/presentacion-personal-app/)
+🌐 **Página web:** [WebSite Personal](https://oapadillaherrera.github.io/presentacion-personal-app/)
 
 🔗 **LinkedIn:** [Óscar Padilla](https://www.linkedin.com/in/oscarpadillafswd/) 
 
