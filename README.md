@@ -1,37 +1,37 @@
 
 
-# 👋 ¡Hola, soy Óscar Padilla!
+# 👋 Hi, I'm Óscar Padilla!
 
-## 🚀 Acerca de mí:
+## 🚀 About Me:
 
-🎯 Me apasiona la programaación por todas las cosas que se pueden hacer con ella. Me gusta el backend y el frontend.
-
----
-
-## 🛠️ Habilidades  
-
-- **Lenguajes:** TypeScript y Python  
-- **Frameworks & Librerías:** NestJS, Node.js, React.js  
-- **Bases de Datos:** PostgreSQL
-- **Herramientas:** Docker, Git&GitHub  
+🎯 I'm passionate about programming and all the possibilities it offers. I enjoy working on both backend and frontend development.
 
 ---
 
-## 💼 Portafolio  
+## 🛠️ Skills
 
-📌 Puedes ver mis proyectos con mas detalle aquí:  
-👉 **[Mi Portafolio](https://github.com/OAPadillaHerrera/portfolio)**  
+- **Languages:** TypeScript and Python  
+- **Frameworks & Libraries:** NestJS, Node.js, React.js  
+- **Databases:** PostgreSQL and MongoDB 
+- **Tools:** Docker, Git & GitHub  
 
 ---
 
-## 📬 Contacto  
+## 💼 Portfolio
 
-🌐 **Página web:** [WebSite Personal](https://oapadillaherrera.github.io/presentacion-personal-app/)
+📌 You can explore my projects in more detail here:  
+👉 **[My Portfolio](https://github.com/OAPadillaHerrera/portfolio)**
 
-🔗 **LinkedIn:** [Óscar Padilla](https://www.linkedin.com/in/oscarpadillafswd/) 
+---
 
-📞 **Móvil**: (+57) 300 380 8231
+## 📬 Contact
 
-📧 **Correo:** iamfstackdev@gmail.com  
+🌐 **Website:** [Personal Website](https://oapadillaherrera.github.io/presentacion-personal-app/)
+
+🔗 **LinkedIn:** [Óscar Padilla](https://www.linkedin.com/in/oscarpadillafswd/)
+
+📞 **Phone:** (+57) 300 380 8231
+
+📧 **Email:** iamfstackdev@gmail.com
 
 
