@@ -4,14 +4,13 @@
 
 ## 🚀 About Me:
 
-🎯 I'm passionate about programming and all the possibilities it offers. I enjoy working on both backend and frontend development.
-
+🎯 I'm passionate about programming and all the possibilities it offers. 
 ---
 
 ## 🛠️ Skills
 
 - **Languages:** TypeScript and Python  
-- **Frameworks & Libraries:** NestJS, Node.js, React.js  
+- **Frameworks & Libraries:** NestJS, Node.js  
 - **Databases:** PostgreSQL and MongoDB 
 - **Tools:** Docker, Git & GitHub  
 
