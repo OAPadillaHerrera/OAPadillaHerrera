@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Óscar Padilla!
+# 👋 Hi, I'm Oscar Padilla!
 
 ## 🚀 About Me:
 
