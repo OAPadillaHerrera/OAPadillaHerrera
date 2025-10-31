@@ -11,7 +11,7 @@
 
 - **Languages:** TypeScript and Python  
 - **Frameworks & Libraries:** NestJS, Node.js  
-- **Databases:** PostgreSQL 
+- **Databases:** PostgreSQL, MongoDB 
 - **Tools:** Docker, Git & GitHub  
 
 ---
