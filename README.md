@@ -10,7 +10,7 @@
 ## 🛠️ Skills
 
 - **Languages:** TypeScript and Python  
-- **Frameworks & Libraries:** NestJS, Node.js  
+- **Frameworks & Libraries:** NestJS, Flask, Node.js  
 - **Databases:** PostgreSQL, MongoDB 
 - **Tools:** Docker, Git & GitHub  
 
